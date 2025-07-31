@@ -10,9 +10,6 @@
 </div>
 
 <div align="left">
-  <a href=![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
-
-
 
