@@ -4,8 +4,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=TalhaDevv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <div align="right">
@@ -13,5 +11,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=24jqzvfbi63phmig4k7oz9sf8&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+---
+[![](https://visitcount.itsvg.in/api?id=TalhaDevv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
